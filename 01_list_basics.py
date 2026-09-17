@@ -70,3 +70,7 @@ print("Second-last element:", numbers[-2])
 #
 #     Replace the third city with a different city.
 #     Print the list before and after the change.
+
+cities = ["Lahore", "Karachi", "Islamabad", "Multan", "Peshawar"]
+
+print("Before change:", cities)
