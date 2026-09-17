@@ -36,3 +36,4 @@ print("Last element:", languages[-1])
 #     Print the list and each individual element.
 
 laptop = ["HP", "8 GB", 85000, True]
+print(laptop)
