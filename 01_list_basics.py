@@ -34,3 +34,5 @@ print("Last element:", languages[-1])
 #     - Is it available?
 #
 #     Print the list and each individual element.
+
+laptop = ["HP", "8 GB", 85000, True]
