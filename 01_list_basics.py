@@ -58,3 +58,5 @@ print("Is it available?", laptop[3])
 #     Use both positive and negative indexes.
 
 numbers = [10, 20, 30, 40, 50, 60]
+print("Second element:", numbers[1])
+print("Fourth element:", numbers[3])
