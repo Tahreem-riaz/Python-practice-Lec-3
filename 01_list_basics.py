@@ -56,3 +56,5 @@ print("Is it available?", laptop[3])
 #     - Second-last element
 #
 #     Use both positive and negative indexes.
+
+numbers = [10, 20, 30, 40, 50, 60]
