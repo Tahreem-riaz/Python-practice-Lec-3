@@ -41,3 +41,9 @@ print("Brand:", laptop[0])
 print("RAM:", laptop[1])
 print("Price:", laptop[2])
 print("Is it available?", laptop[3])
+
+
+# ==========================================
+# PART B: LIST INDEXING
+# ==========================================
+
