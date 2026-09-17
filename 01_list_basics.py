@@ -39,3 +39,5 @@ laptop = ["HP", "8 GB", 85000, True]
 print(laptop)
 print("Brand:", laptop[0])
 print("RAM:", laptop[1])
+print("Price:", laptop[2])
+print("Is it available?", laptop[3])
