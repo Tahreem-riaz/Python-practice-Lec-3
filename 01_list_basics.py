@@ -19,3 +19,4 @@ Total Questions: 8
 #     Then print the first and last element.
 
 languages = ["Python", "C++", "Java", "JavaScript", "C#"]
+print(languages)
