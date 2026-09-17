@@ -11,3 +11,9 @@ Total Questions: 8
 # ==========================================
 # PART A: CREATING LISTS
 # ==========================================
+
+# Q1. Create a list containing the names of five
+#     programming languages.
+#
+#     Print the complete list.
+#     Then print the first and last element.
