@@ -62,3 +62,11 @@ print("Second element:", numbers[1])
 print("Fourth element:", numbers[3])
 print("Last element:", numbers[-1])
 print("Second-last element:", numbers[-2])
+
+# ------------------------------------------
+
+# Q4. Create a list containing the names of several
+#     cities.
+#
+#     Replace the third city with a different city.
+#     Print the list before and after the change.
