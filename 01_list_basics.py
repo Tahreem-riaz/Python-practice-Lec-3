@@ -22,3 +22,15 @@ languages = ["Python", "C++", "Java", "JavaScript", "C#"]
 print(languages)
 print("First element:", languages[0])
 print("Last element:", languages[-1])
+
+# ------------------------------------------
+
+# Q2. Create a list containing different types of
+#     information about a laptop:
+#
+#     - Brand
+#     - RAM
+#     - Price
+#     - Is it available?
+#
+#     Print the list and each individual element.
