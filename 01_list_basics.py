@@ -20,3 +20,5 @@ Total Questions: 8
 
 languages = ["Python", "C++", "Java", "JavaScript", "C#"]
 print(languages)
+print("First element:", languages[0])
+print("Last element:", languages[-1])
