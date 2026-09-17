@@ -17,3 +17,5 @@ Total Questions: 8
 #
 #     Print the complete list.
 #     Then print the first and last element.
+
+languages = ["Python", "C++", "Java", "JavaScript", "C#"]
