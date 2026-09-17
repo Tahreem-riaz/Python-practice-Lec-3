@@ -47,3 +47,12 @@ print("Is it available?", laptop[3])
 # PART B: LIST INDEXING
 # ==========================================
 
+# Q3. Create a list of six numbers.
+#
+#     Use indexing to print:
+#     - Second element
+#     - Fourth element
+#     - Last element
+#     - Second-last element
+#
+#     Use both positive and negative indexes.
