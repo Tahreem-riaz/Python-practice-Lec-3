@@ -74,3 +74,7 @@ print("Second-last element:", numbers[-2])
 cities = ["Lahore", "Karachi", "Islamabad", "Multan", "Peshawar"]
 
 print("Before change:", cities)
+
+cities[2] = "Faisalabad"
+
+print("After change:", cities)
