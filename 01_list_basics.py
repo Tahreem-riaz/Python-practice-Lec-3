@@ -125,3 +125,5 @@ print("Updated list:", letters)
 sentence = "Python is easy to learn"
 
 words = ["Python", "is", "easy", "to", "learn"]
+print("Sentence:", sentence)
+print("List:", words)
