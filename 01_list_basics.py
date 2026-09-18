@@ -78,3 +78,8 @@ print("Before change:", cities)
 cities[2] = "Faisalabad"
 
 print("After change:", cities)
+
+# ==========================================
+# PART C: STRINGS VS LISTS
+# ==========================================
+
