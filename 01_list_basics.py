@@ -121,3 +121,7 @@ print("Updated list:", letters)
 #
 #     Compare how the sentence and the list are
 #     represented.
+
+sentence = "Python is easy to learn"
+
+words = ["Python", "is", "easy", "to", "learn"]
