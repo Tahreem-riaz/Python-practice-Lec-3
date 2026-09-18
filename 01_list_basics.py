@@ -140,3 +140,7 @@ print("List:", words)
 #
 #     Change one subject, add another subject,
 #     and print the updated list.
+
+subjects = ["English", "Mathematics", "Programming", "Physics", "ICT"]
+
+subjects[2] = "Artificial Intelligence"
