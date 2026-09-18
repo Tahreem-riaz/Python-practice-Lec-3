@@ -135,3 +135,8 @@ print("List:", words)
 # ==========================================
 # PART D: PRACTICE
 # ==========================================
+
+# Q7. Create a list containing five subjects.
+#
+#     Change one subject, add another subject,
+#     and print the updated list.
