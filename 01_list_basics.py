@@ -83,3 +83,15 @@ print("After change:", cities)
 # PART C: STRINGS VS LISTS
 # ==========================================
 
+# Q5. Create:
+#
+#     word = "Python"
+#     letters = ["P", "y", "t", "h", "o", "n"]
+#
+#     Print an element from each using indexing.
+#
+#     Then try changing one character in the string
+#     and one element in the list.
+#
+#     Write your observation as a comment.
+
