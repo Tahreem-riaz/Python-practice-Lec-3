@@ -99,3 +99,6 @@ word = "Python"
 letters = ["P", "y", "t", "h", "o", "n"]
 print("String element:", word[0])
 print("List element:", letters[0])
+
+# String characters cannot be changed directly.
+# word[0] = "J"   # This will give an error.
