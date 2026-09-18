@@ -110,3 +110,14 @@ print("Updated list:", letters)
 # Observation:
 # Strings are immutable, so their characters cannot be changed directly.
 # Lists are mutable, so their elements can be changed.
+
+
+# ------------------------------------------
+
+# Q6. Create a sentence and a list containing
+#     several words from that sentence.
+#
+#     Print both.
+#
+#     Compare how the sentence and the list are
+#     represented.
