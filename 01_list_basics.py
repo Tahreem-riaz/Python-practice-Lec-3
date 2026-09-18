@@ -95,3 +95,5 @@ print("After change:", cities)
 #
 #     Write your observation as a comment.
 
+word = "Python"
+letters = ["P", "y", "t", "h", "o", "n"]
