@@ -97,3 +97,5 @@ print("After change:", cities)
 
 word = "Python"
 letters = ["P", "y", "t", "h", "o", "n"]
+print("String element:", word[0])
+print("List element:", letters[0])
