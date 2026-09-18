@@ -102,3 +102,11 @@ print("List element:", letters[0])
 
 # String characters cannot be changed directly.
 # word[0] = "J"   # This will give an error.
+
+letters[0] = "J"
+
+print("Updated list:", letters)
+
+# Observation:
+# Strings are immutable, so their characters cannot be changed directly.
+# Lists are mutable, so their elements can be changed.
