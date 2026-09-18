@@ -131,3 +131,7 @@ print("List:", words)
 # Observation:
 # A string stores the complete sentence as one sequence of characters.
 # A list stores multiple words as separate elements.
+
+# ==========================================
+# PART D: PRACTICE
+# ==========================================
