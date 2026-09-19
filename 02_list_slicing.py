@@ -25,3 +25,10 @@ print("Last five elements:", numbers[-5:])
 print("Middle elements:", numbers[40:50])
 
 # ------------------------------------------
+
+# Q2. Create a list containing seven different
+#     programming languages.
+#
+#     Use slicing to create:
+#     - A list containing the first three
+#     - A list containing the last three
