@@ -44,3 +44,9 @@ print("Last three:", last_three)
 # ==========================================
 # PART B: STEP SLICING
 # ==========================================
+
+# Q3. Create a list of numbers from 1 to 15.
+#
+#     Use slicing with a step to print:
+#     - Every second number
+#     - Every third number
