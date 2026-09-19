@@ -64,3 +64,5 @@ print("Every third number:", numbers[::3])
 
 days = ["Monday", "Tuesday", "Wednesday", "Thursday",
         "Friday", "Saturday", "Sunday"]
+
+print("Alternate days:", days[::2])
