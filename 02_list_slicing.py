@@ -96,3 +96,8 @@ print("Remaining list:", numbers[-5:])
 # ==========================================
 # PART D: REVERSE SLICING
 # ==========================================
+
+# Q7. Create a list containing the numbers 1 to 10.
+#
+#     Use slicing with a negative step to reverse
+#     the list.
