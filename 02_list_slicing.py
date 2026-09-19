@@ -34,3 +34,6 @@ print("Middle elements:", numbers[40:50])
 #     - A list containing the last three
 
 languages = ["Python", "C++", "Java", "JavaScript", "C#", "PHP", "Ruby"]
+
+first_three = languages[:3]
+last_three = languages[-3:]
