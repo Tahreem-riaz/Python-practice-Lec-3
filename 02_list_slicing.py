@@ -70,3 +70,9 @@ print("Alternate days:", days[::2])
 # ==========================================
 # PART C: NEGATIVE SLICING
 # ==========================================
+
+# Q5. Create a list containing eight different
+#     fruits.
+#
+#     Use negative slicing to extract the last
+#     four fruits.
