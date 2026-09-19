@@ -83,3 +83,8 @@ fruits = ["Apple", "Banana", "Mango", "Orange",
 print("Last four fruits:", fruits[-4:])
 
 # ------------------------------------------
+
+# Q6. Create a list of numbers.
+#
+#     Use negative slicing to remove the first
+#     few elements and display the remaining list.
