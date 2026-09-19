@@ -61,3 +61,6 @@ print("Every third number:", numbers[::3])
 # Q4. Create a list containing the days of the week.
 #
 #     Use slicing with a step to select alternate days.
+
+days = ["Monday", "Tuesday", "Wednesday", "Thursday",
+        "Friday", "Saturday", "Sunday"]
