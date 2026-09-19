@@ -79,3 +79,7 @@ print("Alternate days:", days[::2])
 
 fruits = ["Apple", "Banana", "Mango", "Orange",
           "Grapes", "Peach", "Watermelon", "Strawberry"]
+
+print("Last four fruits:", fruits[-4:])
+
+# ------------------------------------------
