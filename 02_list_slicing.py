@@ -19,3 +19,4 @@ Total Questions: 8
 #     - Last five elements
 #     - Elements from the middle
 
+numbers = list(range(10, 101))
