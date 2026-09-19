@@ -50,3 +50,5 @@ print("Last three:", last_three)
 #     Use slicing with a step to print:
 #     - Every second number
 #     - Every third number
+
+numbers = list(range(1, 16))
