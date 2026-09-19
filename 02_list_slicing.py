@@ -37,3 +37,6 @@ languages = ["Python", "C++", "Java", "JavaScript", "C#", "PHP", "Ruby"]
 
 first_three = languages[:3]
 last_three = languages[-3:]
+
+print("First three:", first_three)
+print("Last three:", last_three)
