@@ -6,3 +6,7 @@ Topics: List Slicing, Positive and Negative Slicing
 Total Questions: 8
 ========================================================
 """
+
+# ==========================================
+# PART A: BASIC SLICING
+# ==========================================
