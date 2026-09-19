@@ -66,3 +66,7 @@ days = ["Monday", "Tuesday", "Wednesday", "Thursday",
         "Friday", "Saturday", "Sunday"]
 
 print("Alternate days:", days[::2])
+
+# ==========================================
+# PART C: NEGATIVE SLICING
+# ==========================================
