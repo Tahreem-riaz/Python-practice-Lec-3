@@ -20,3 +20,8 @@ Total Questions: 8
 #     - Elements from the middle
 
 numbers = list(range(10, 101))
+print("First five elements:", numbers[:5])
+print("Last five elements:", numbers[-5:])
+print("Middle elements:", numbers[40:50])
+
+# ------------------------------------------
