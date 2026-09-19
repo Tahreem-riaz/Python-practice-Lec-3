@@ -32,3 +32,5 @@ print("Middle elements:", numbers[40:50])
 #     Use slicing to create:
 #     - A list containing the first three
 #     - A list containing the last three
+
+languages = ["Python", "C++", "Java", "JavaScript", "C#", "PHP", "Ruby"]
