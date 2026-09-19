@@ -40,3 +40,7 @@ last_three = languages[-3:]
 
 print("First three:", first_three)
 print("Last three:", last_three)
+
+# ==========================================
+# PART B: STEP SLICING
+# ==========================================
