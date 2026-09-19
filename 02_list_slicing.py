@@ -52,3 +52,8 @@ print("Last three:", last_three)
 #     - Every third number
 
 numbers = list(range(1, 16))
+
+print("Every second number:", numbers[::2])
+print("Every third number:", numbers[::3])
+
+# ------------------------------------------
