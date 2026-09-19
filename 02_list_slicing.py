@@ -76,3 +76,6 @@ print("Alternate days:", days[::2])
 #
 #     Use negative slicing to extract the last
 #     four fruits.
+
+fruits = ["Apple", "Banana", "Mango", "Orange",
+          "Grapes", "Peach", "Watermelon", "Strawberry"]
