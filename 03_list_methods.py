@@ -110,3 +110,5 @@ print("Reversed list:", numbers)
 #
 #     Sort the names alphabetically.
 #     Print the sorted list.
+
+names = ["Zain", "Ali", "Sara", "Ahmed", "Hina"]
