@@ -98,3 +98,11 @@ print("Afternoon classes:", timetable[3:])
 print("Alternate periods:", timetable[::2])
 
 # ------------------------------------------
+
+# Q5. A company stores the years in which an employee
+#     received an award:
+#
+#     2019, 2020, 2021, 2022, 2023, 2024
+#
+#     Use negative slicing to display the three
+#     most recent award years.
