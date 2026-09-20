@@ -142,3 +142,12 @@ print("Product barcode:", product_barcode)
 # should remain fixed.
 
 # ------------------------------------------
+
+# Q7. A student's subjects may change during
+#     registration, so they should be stored in
+#     a list.
+#
+#     A student's date of birth does not normally
+#     change, so store it in a tuple.
+#
+#     Print the type of both.
