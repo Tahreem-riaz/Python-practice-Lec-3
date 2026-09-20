@@ -47,7 +47,7 @@ The lecture focuses on working with ordered data collections using **lists** and
 
 ---
 
-## 📂 Repository Structure
+## 📁 Repository Structure
 
 ```text
 lecture-03/
@@ -58,10 +58,9 @@ lecture-03/
 ├── 03_list_methods.py
 ├── 04_tuples.py
 └── 05_mini_project.py
+```
 
 ---
-
-```md
 
 ## 🎯 Learning Goals
 
