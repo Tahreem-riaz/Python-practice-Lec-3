@@ -74,3 +74,6 @@ print("First three courses:", courses[:3])
 
 # Add a new course
 courses.append("Artificial Intelligence")
+
+# Remove one course
+courses.remove("ICT")
