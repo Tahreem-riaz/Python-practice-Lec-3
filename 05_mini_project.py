@@ -132,3 +132,15 @@ else:
 # --------------------------------------------------------
 # STEP 7: TUPLE PRACTICE
 # --------------------------------------------------------
+
+# These university details are fixed, so a tuple
+# is suitable for storing them.
+
+university_details = (
+    "Green International University",
+    "Lahore",
+    "BSAI"
+)
+
+print("\nUniversity Details:")
+print("Complete details:", university_details)
