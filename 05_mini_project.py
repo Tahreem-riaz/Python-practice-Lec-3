@@ -100,3 +100,7 @@ reversed_courses = courses[::-1]
 
 print("\nReversed Courses:")
 print(reversed_courses)
+
+# --------------------------------------------------------
+# STEP 6: COURSE ANALYSIS
+# --------------------------------------------------------
