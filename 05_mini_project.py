@@ -20,3 +20,6 @@ Concepts Used:
 # --------------------------------------------------------
 # STEP 1: STUDENT INFORMATION
 # --------------------------------------------------------
+
+# Student information is stored in a tuple because
+# these details should remain fixed.
