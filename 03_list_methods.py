@@ -67,3 +67,6 @@ shopping_list = ["Milk", "Bread", "Eggs", "Apples", "Juice"]
 shopping_list.remove("Bread")
 
 print("After remove():", shopping_list)
+shopping_list.pop(1)
+
+print("After pop():", shopping_list)
