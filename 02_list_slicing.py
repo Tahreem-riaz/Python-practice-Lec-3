@@ -106,3 +106,6 @@ subjects = ["English", "Mathematics", "Programming", "Physics", "ICT"]
 
 subjects[2] = "Artificial Intelligence"
 subjects.append("Database")
+
+print("Updated subjects:", subjects)
+# ------------------------------------------
