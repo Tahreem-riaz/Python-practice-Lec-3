@@ -24,3 +24,5 @@ Total Questions: 10
 #
 #     Print the complete record and the student's
 #     name and program using indexing.
+
+student = (105, "Ayesha", "BS Artificial Intelligence", 1)
