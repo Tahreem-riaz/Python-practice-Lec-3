@@ -18,3 +18,6 @@ Total Questions: 10
 #     Print the updated list.
 
 languages = ["Python", "C++", "Java"]
+
+languages.append("JavaScript")
+languages.append("C#")
