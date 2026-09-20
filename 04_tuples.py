@@ -92,3 +92,9 @@ timetable = (
     "Discrete Structures",
     "AI"
 )
+
+print("Morning classes:", timetable[:3])
+print("Afternoon classes:", timetable[3:])
+print("Alternate periods:", timetable[::2])
+
+# ------------------------------------------
