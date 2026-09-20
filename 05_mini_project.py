@@ -34,3 +34,6 @@ print("Semester:", student_info[2])
 # --------------------------------------------------------
 # STEP 2: COURSE LIST
 # --------------------------------------------------------
+
+# Courses are stored in a list because courses can
+# be added or removed.
