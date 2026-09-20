@@ -51,6 +51,19 @@ print("Longitude:", coordinates[1])
 # A tuple is suitable because the coordinates
 # should remain fixed and should not be changed.
 
+
 # ==========================================
 # PART B: TUPLE INDEXING & SLICING
 # ==========================================
+
+# Q3. A student's weekly marks are stored in a tuple.
+#
+#     The order is:
+#     Monday, Tuesday, Wednesday, Thursday, Friday
+#
+#     Print:
+#     - Monday's marks
+#     - Friday's marks
+#     - Wednesday's marks
+#
+#     Use both positive and negative indexing.
