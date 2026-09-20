@@ -62,3 +62,5 @@ print("Combined list:", list1)
 #     Use pop() to remove another item.
 #
 #     Print the list after each operation.
+
+shopping_list = ["Milk", "Bread", "Eggs", "Apples", "Juice"]
