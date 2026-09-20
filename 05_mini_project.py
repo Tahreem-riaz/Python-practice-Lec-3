@@ -144,3 +144,15 @@ university_details = (
 
 print("\nUniversity Details:")
 print("Complete details:", university_details)
+
+# Tuple indexing
+print("University:", university_details[0])
+print("Program:", university_details[2])
+
+# Tuple slicing
+print("University and Location:", university_details[:2])
+
+
+# Tuple method
+print("Position of BSAI:",
+      university_details.index("BSAI"))
