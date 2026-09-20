@@ -42,3 +42,5 @@ print("Program:", student[2])
 #
 #     Why is a tuple suitable here?
 #     Write your answer as a comment.
+
+coordinates = (31.5204, 74.3587)
