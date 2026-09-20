@@ -50,3 +50,7 @@ list2 = ["Orange", "Grapes", "Peach"]
 
 list1.extend(list2)
 print("Combined list:", list1)
+
+# ==========================================
+# PART B: REMOVING ELEMENTS
+# ==========================================
