@@ -54,3 +54,11 @@ print("Combined list:", list1)
 # ==========================================
 # PART B: REMOVING ELEMENTS
 # ==========================================
+
+# Q4. Create a shopping list containing at least
+#     five items.
+#
+#     Use remove() to delete one item.
+#     Use pop() to remove another item.
+#
+#     Print the list after each operation.
