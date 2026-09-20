@@ -49,3 +49,4 @@ list1 = ["Apple", "Banana", "Mango"]
 list2 = ["Orange", "Grapes", "Peach"]
 
 list1.extend(list2)
+print("Combined list:", list1)
