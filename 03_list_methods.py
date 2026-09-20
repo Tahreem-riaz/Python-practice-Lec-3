@@ -70,3 +70,13 @@ print("After remove():", shopping_list)
 shopping_list.pop(1)
 
 print("After pop():", shopping_list)
+
+# ------------------------------------------
+
+# Q5. Create a list of numbers.
+#
+#     Use pop() without specifying an index.
+#
+#     Print:
+#     - The removed value
+#     - The updated list
