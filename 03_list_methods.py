@@ -160,3 +160,7 @@ print("Position of Java:", position)
 #      Print the list after each operation.
 
 products = ["Laptop", "Mouse", "Keyboard", "Headphones", "Monitor"]
+
+# Add a new product
+products.append("Webcam")
+print("After adding:", products)
