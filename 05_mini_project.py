@@ -30,3 +30,7 @@ print("\nStudent Information:")
 print("Name:", student_info[0])
 print("Student ID:", student_info[1])
 print("Semester:", student_info[2])
+
+# --------------------------------------------------------
+# STEP 2: COURSE LIST
+# --------------------------------------------------------
