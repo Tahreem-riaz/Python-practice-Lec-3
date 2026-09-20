@@ -25,3 +25,10 @@ languages.append("C#")
 print("Updated list:", languages)
 
 # ------------------------------------------
+
+# Q2. Create a list of three numbers.
+#
+#     Use insert() to place a new number at the
+#     beginning of the list.
+#
+#     Print the result.
