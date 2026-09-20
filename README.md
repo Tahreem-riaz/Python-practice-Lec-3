@@ -59,16 +59,17 @@ lecture-03/
 ├── 04_tuples.py
 └── 05_mini_project.py
 
+>
+> ## 🎯 Learning Goals
+>
+> By completing this lecture, you will learn:
+>
+> * 📋 **Lists** — Create, access, modify, and manage ordered data.
+> * 🔢 **Indexing** — Access elements using zero-based indexing.
+> * 🔄 **Mutability** — Understand the difference between mutable and immutable data structures.
+> * ✂️ **Slicing** — Extract custom portions of sequences using slicing and step values.
+> * 🛠️ **List Methods** — Work with `.append()`, `.extend()`, `.insert()`, `.pop()`, `.remove()`, and `.sort()`.
+> * 📦 **Tuples** — Create and access immutable sequences for read-only data.
+> * 🔎 **Tuple Methods** — Use `.count()` and `.index()` to work with tuple data.
+> * ⚖️ **Lists vs Tuples** — Choose the appropriate data structure based on the needs of a program.
 
-## 🎯 Learning Goals
-
-By completing this lecture, you will be able to:
-
-* **Work with Lists** — Create, modify, and manage ordered collections of data.
-* **Master Indexing** — Access list and tuple elements using zero-based indexing.
-* **Understand Mutability** — Distinguish between mutable structures such as lists and immutable structures such as strings and tuples.
-* **Use Slicing** — Extract specific portions of sequences using slicing and step modifiers.
-* **Manipulate Lists** — Apply essential methods including `.append()`, `.extend()`, `.insert()`, `.pop()`, `.remove()`, and `.sort()`.
-* **Work with Tuples** — Create, access, and use tuples for immutable sequences.
-* **Apply Tuple Methods** — Use `.count()` and `.index()` to retrieve information from tuples.
-* **Choose the Right Structure** — Understand when to use lists or tuples based on the requirements of a program.
