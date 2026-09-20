@@ -39,3 +39,8 @@ numbers.insert(0, 10)
 print("Updated list:", numbers)
 
 # ------------------------------------------
+
+# Q3. Create two lists containing different items.
+#
+#     Use extend() to combine the second list
+#     with the first one.
