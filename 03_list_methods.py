@@ -65,3 +65,5 @@ print("Combined list:", list1)
 
 shopping_list = ["Milk", "Bread", "Eggs", "Apples", "Juice"]
 shopping_list.remove("Bread")
+
+print("After remove():", shopping_list)
