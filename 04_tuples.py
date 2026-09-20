@@ -182,3 +182,11 @@ print("Product 101 was purchased:",
       number_of_purchases, "times")
 
 # ------------------------------------------
+
+# Q9. A bus route has fixed stops:
+#
+#     Lahore, Gujranwala, Wazirabad, Gujrat, Jhelum
+#
+#     Use index() to find the position of Gujrat.
+#
+#     Then use that position to print the stop.
