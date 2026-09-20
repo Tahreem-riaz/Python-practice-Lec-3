@@ -106,3 +106,5 @@ print("Alternate periods:", timetable[::2])
 #
 #     Use negative slicing to display the three
 #     most recent award years.
+
+award_years = (2019, 2020, 2021, 2022, 2023, 2024)
