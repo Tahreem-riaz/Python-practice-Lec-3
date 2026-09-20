@@ -97,3 +97,4 @@ print("Updated list:", numbers)
 #     Then reverse the sorted list.
 
 numbers = [50, 20, 80, 10, 40, 30]
+numbers.sort()
