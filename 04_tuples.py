@@ -116,3 +116,13 @@ print("Most recent award years:", recent_years)
 # ==========================================
 # PART C: LISTS VS TUPLES
 # ==========================================
+
+# Q6. A shopping cart changes frequently, while
+#     a product's barcode should remain fixed.
+#
+#     Store:
+#     - Shopping cart items in a list
+#     - Product barcode in a tuple
+#
+#     Add a new item to the shopping cart.
+#     Then explain why the barcode is stored in a tuple.
