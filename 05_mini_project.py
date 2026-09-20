@@ -127,3 +127,8 @@ if calculus_count > 1:
     print("Calculus appears more than once.")
 else:
     print("Calculus appears only once.")
+
+
+# --------------------------------------------------------
+# STEP 7: TUPLE PRACTICE
+# --------------------------------------------------------
