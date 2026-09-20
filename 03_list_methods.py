@@ -142,3 +142,8 @@ languages = ["Python", "C++", "Java", "JavaScript", "C#"]
 position = languages.index("Java")
 
 print("Position of Java:", position)
+
+# ==========================================
+# PART E: CHALLENGE
+# ==========================================
+
