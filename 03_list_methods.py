@@ -103,3 +103,10 @@ print("Ascending order:", numbers)
 
 numbers.reverse()
 print("Reversed list:", numbers)
+
+# ------------------------------------------
+
+# Q7. Create a list containing several names.
+#
+#     Sort the names alphabetically.
+#     Print the sorted list.
