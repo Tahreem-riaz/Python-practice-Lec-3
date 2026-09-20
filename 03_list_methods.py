@@ -114,3 +114,4 @@ print("Reversed list:", numbers)
 names = ["Zain", "Ali", "Sara", "Ahmed", "Hina"]
 
 names.sort()
+print("Alphabetically sorted:", names)
