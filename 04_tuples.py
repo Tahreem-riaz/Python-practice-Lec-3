@@ -245,3 +245,7 @@ print("RAM and Storage:", computer_specs[1:3])
 storage_position = computer_specs.index("512 GB SSD")
 
 print("Storage index:", storage_position)
+
+# 5. Explanation:
+# A tuple is suitable because the basic computer
+# specifications are fixed and should not be changed.
