@@ -64,3 +64,4 @@ print("Combined list:", list1)
 #     Print the list after each operation.
 
 shopping_list = ["Milk", "Bread", "Eggs", "Apples", "Juice"]
+shopping_list.remove("Bread")
