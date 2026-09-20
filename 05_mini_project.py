@@ -49,3 +49,7 @@ courses = [
 
 print("\nCourse List:")
 print(courses)
+
+# --------------------------------------------------------
+# STEP 3: DISPLAY COURSE INFORMATION
+# --------------------------------------------------------
