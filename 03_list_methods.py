@@ -102,3 +102,4 @@ numbers.sort()
 print("Ascending order:", numbers)
 
 numbers.reverse()
+print("Reversed list:", numbers)
