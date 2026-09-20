@@ -90,3 +90,8 @@ print("Updated list:", numbers)
 # ==========================================
 # PART C: SORTING & REVERSING
 # ==========================================
+
+# Q6. Create a list of numbers in random order.
+#
+#     Sort the list in ascending order and print it.
+#     Then reverse the sorted list.
