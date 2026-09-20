@@ -58,3 +58,6 @@ print("\nCourse Information:")
 
 # Complete course list
 print("All courses:", courses)
+
+# First course
+print("First course:", courses[0])
