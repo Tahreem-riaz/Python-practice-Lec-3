@@ -23,3 +23,5 @@ Concepts Used:
 
 # Student information is stored in a tuple because
 # these details should remain fixed.
+
+student_info = ("Ayesha", "BSAI-GIU-SP26-005", 1)
