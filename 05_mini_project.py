@@ -61,3 +61,6 @@ print("All courses:", courses)
 
 # First course
 print("First course:", courses[0])
+
+# Last course
+print("Last course:", courses[-1])
