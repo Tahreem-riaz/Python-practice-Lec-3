@@ -165,3 +165,11 @@ print("Date of birth type:", type(date_of_birth))
 # ==========================================
 # PART D: TUPLE METHODS
 # ==========================================
+
+# Q8. A customer has purchased products with the
+#     following product IDs:
+#
+#     101, 205, 101, 302, 101, 205
+#
+#     Use count() to find how many times product
+#     ID 101 was purchased.
