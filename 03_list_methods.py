@@ -158,3 +158,5 @@ print("Position of Java:", position)
 #      - Reverse the list
 #
 #      Print the list after each operation.
+
+products = ["Laptop", "Mouse", "Keyboard", "Headphones", "Monitor"]
