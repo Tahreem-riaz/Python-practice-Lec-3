@@ -44,3 +44,6 @@ print("Updated list:", numbers)
 #
 #     Use extend() to combine the second list
 #     with the first one.
+
+list1 = ["Apple", "Banana", "Mango"]
+list2 = ["Orange", "Grapes", "Peach"]
