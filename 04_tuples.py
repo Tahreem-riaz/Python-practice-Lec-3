@@ -126,3 +126,5 @@ print("Most recent award years:", recent_years)
 #
 #     Add a new item to the shopping cart.
 #     Then explain why the barcode is stored in a tuple.
+
+shopping_cart = ["Mouse", "Keyboard", "USB Cable"]
