@@ -69,3 +69,9 @@ print("Longitude:", coordinates[1])
 #     Use both positive and negative indexing.
 
 weekly_marks = (78, 85, 91, 74, 88)
+
+print("Monday:", weekly_marks[0])
+print("Friday:", weekly_marks[-1])
+print("Wednesday:", weekly_marks[2])
+
+# ------------------------------------------
