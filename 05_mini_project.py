@@ -196,3 +196,8 @@ print(current_courses)
 
 # List = changeable
 # Tuple = not changeable
+
+print("\nData Structure Summary:")
+print("Student information type:", type(student_info))
+print("Course list type:", type(courses))
+print("University details type:", type(university_details))
