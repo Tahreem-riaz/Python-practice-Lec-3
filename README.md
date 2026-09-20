@@ -61,15 +61,16 @@ lecture-03/
 
 ---
 
-```text
+```md
+
 ## 🎯 Learning Goals
 
-* Creating and manipulating Python lists
-* List indexing and zero-based indexing
-* List slicing and step modifiers
-* List mutability and sequence behavior
-* Essential list methods
-* Creating and accessing tuples
-* Tuple indexing and slicing
-* Built-in tuple methods (`.count()`, `.index()`)
-* Key differences between lists and tuples
+- Creating and manipulating Python lists
+- List indexing and zero-based indexing
+- List slicing and step modifiers
+- List mutability and sequence behavior
+- Essential list methods
+- Creating and accessing tuples
+- Tuple indexing and slicing
+- Built-in tuple methods (`.count()`, `.index()`)
+- Key differences between lists and tuples
