@@ -168,3 +168,9 @@ print("After adding:", products)
 # Insert a product at position 2
 products.insert(2, "USB Cable")
 print("After inserting:", products)
+
+
+# Remove a product
+products.remove("Mouse")
+print("After removing:", products)
+
