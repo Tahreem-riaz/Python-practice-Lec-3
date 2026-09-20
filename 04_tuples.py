@@ -158,3 +158,6 @@ date_of_birth = (14, "February", 2008)
 
 print("Subjects type:", type(subjects))
 print("Date of birth type:", type(date_of_birth))
+
+# List = mutable and can be changed.
+# Tuple = immutable and cannot be changed directly.
