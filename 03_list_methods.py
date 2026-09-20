@@ -129,3 +129,10 @@ numbers = [10, 20, 10, 30, 10, 40, 20]
 
 count = numbers.count(10)
 print("Number of times 10 appears:", count)
+
+# ------------------------------------------
+
+# Q9. Create a list of programming languages.
+#
+#     Use index() to find the position of a language
+#     in the list.
