@@ -193,3 +193,6 @@ print(current_courses)
 # --------------------------------------------------------
 # LISTS VS TUPLES
 # --------------------------------------------------------
+
+# List = changeable
+# Tuple = not changeable
