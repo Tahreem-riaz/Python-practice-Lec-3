@@ -25,3 +25,8 @@ Concepts Used:
 # these details should remain fixed.
 
 student_info = ("Ayesha", "BSAI-GIU-SP26-005", 1)
+
+print("\nStudent Information:")
+print("Name:", student_info[0])
+print("Student ID:", student_info[1])
+print("Semester:", student_info[2])
