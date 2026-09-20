@@ -55,3 +55,6 @@ print(courses)
 # --------------------------------------------------------
 
 print("\nCourse Information:")
+
+# Complete course list
+print("All courses:", courses)
