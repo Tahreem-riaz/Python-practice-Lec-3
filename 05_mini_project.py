@@ -104,3 +104,9 @@ print(reversed_courses)
 # --------------------------------------------------------
 # STEP 6: COURSE ANALYSIS
 # --------------------------------------------------------
+
+# Number of courses
+total_courses = len(courses)
+
+print("\nCourse Analysis:")
+print("Total number of courses:", total_courses)
