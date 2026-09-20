@@ -26,3 +26,9 @@ Total Questions: 10
 #     name and program using indexing.
 
 student = (105, "Ayesha", "BS Artificial Intelligence", 1)
+
+print("Student Record:", student)
+print("Name:", student[1])
+print("Program:", student[2])
+
+# ------------------------------------------
