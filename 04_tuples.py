@@ -190,3 +190,11 @@ print("Product 101 was purchased:",
 #     Use index() to find the position of Gujrat.
 #
 #     Then use that position to print the stop.
+
+bus_stops = (
+    "Lahore",
+    "Gujranwala",
+    "Wazirabad",
+    "Gujrat",
+    "Jhelum"
+)
