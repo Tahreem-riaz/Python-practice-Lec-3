@@ -160,3 +160,26 @@ print("Position of BSAI:",
 # --------------------------------------------------------
 # EXTRA CHALLENGE
 # --------------------------------------------------------
+
+# Lists are used because course status can change.
+
+completed_courses = [
+    "Programming Fundamentals",
+    "Functional English"
+]
+
+current_courses = [
+    "Calculus",
+    "Discrete Structures"
+]
+
+upcoming_courses = [
+    "Database Systems",
+    "Artificial Intelligence"
+]
+
+print("\nCourse Status:")
+
+print("Completed Courses:", completed_courses)
+print("Current Courses:", current_courses)
+print("Upcoming Courses:", upcoming_courses)
