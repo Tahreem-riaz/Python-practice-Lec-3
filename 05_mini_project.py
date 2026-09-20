@@ -71,3 +71,6 @@ print("First three courses:", courses[:3])
 # --------------------------------------------------------
 # STEP 4: MODIFY THE COURSE LIST
 # --------------------------------------------------------
+
+# Add a new course
+courses.append("Artificial Intelligence")
