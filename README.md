@@ -60,16 +60,14 @@ lecture-03/
 └── 05_mini_project.py
 
 >
-> ## 🎯 Learning Goals
->
-> By completing this lecture, you will learn:
->
-> * 📋 **Lists** — Create, access, modify, and manage ordered data.
-> * 🔢 **Indexing** — Access elements using zero-based indexing.
-> * 🔄 **Mutability** — Understand the difference between mutable and immutable data structures.
-> * ✂️ **Slicing** — Extract custom portions of sequences using slicing and step values.
-> * 🛠️ **List Methods** — Work with `.append()`, `.extend()`, `.insert()`, `.pop()`, `.remove()`, and `.sort()`.
-> * 📦 **Tuples** — Create and access immutable sequences for read-only data.
-> * 🔎 **Tuple Methods** — Use `.count()` and `.index()` to work with tuple data.
-> * ⚖️ **Lists vs Tuples** — Choose the appropriate data structure based on the needs of a program.
+## 🎯 Learning Goals
 
+- Creating and manipulating Python lists
+- List indexing and zero-based indexing
+- List slicing and step modifiers
+- List mutability and sequence behavior
+- Essential list methods
+- Creating and accessing tuples
+- Tuple indexing and slicing
+- Built-in tuple methods (`.count()`, `.index()`)
+- Key differences between lists and tuples
