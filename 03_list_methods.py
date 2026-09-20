@@ -95,3 +95,5 @@ print("Updated list:", numbers)
 #
 #     Sort the list in ascending order and print it.
 #     Then reverse the sorted list.
+
+numbers = [50, 20, 80, 10, 40, 30]
