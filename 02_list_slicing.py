@@ -109,3 +109,12 @@ subjects.append("Database")
 
 print("Updated subjects:", subjects)
 # ------------------------------------------
+
+# Q8. Create a "Shopping Cart" list containing
+#     at least five items.
+#
+#     Print:
+#     - Complete cart
+#     - First item
+#     - Last item
+#     - Total number of items
