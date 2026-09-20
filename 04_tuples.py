@@ -207,3 +207,20 @@ print("Bus stop:", bus_stops[gujrat_position])
 # ==========================================
 # PART E: CHALLENGE
 # ==========================================
+
+# Q10. A computer system stores its basic
+#      specifications in a tuple:
+#
+#      - Processor
+#      - RAM
+#      - Storage
+#      - Operating System
+#
+#      Perform the following:
+#
+#      1. Print the processor.
+#      2. Print the operating system.
+#      3. Display RAM and storage using slicing.
+#      4. Find the index of "512 GB SSD".
+#      5. Explain why a tuple is suitable for
+#         storing these specifications.
