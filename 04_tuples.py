@@ -249,3 +249,4 @@ print("Storage index:", storage_position)
 # 5. Explanation:
 # A tuple is suitable because the basic computer
 # specifications are fixed and should not be changed.
+
