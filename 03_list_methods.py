@@ -140,3 +140,5 @@ print("Number of times 10 appears:", count)
 languages = ["Python", "C++", "Java", "JavaScript", "C#"]
 
 position = languages.index("Java")
+
+print("Position of Java:", position)
