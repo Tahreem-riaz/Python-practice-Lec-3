@@ -25,7 +25,7 @@ Total Questions: 10
 #     Print the complete record and the student's
 #     name and program using indexing.
 
-student = (105, "Ayesha", "BS Artificial Intelligence", 1)
+student = (005, "Tahreem", "BS Artificial Intelligence", 1)
 
 print("Student Record:", student)
 print("Name:", student[1])
