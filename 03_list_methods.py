@@ -181,3 +181,7 @@ print("After sorting:", products)
 # Reverse the list
 products.reverse()
 print("After reversing:", products)
+
+# ==========================================
+# END OF PRACTICE
+# ==========================================
