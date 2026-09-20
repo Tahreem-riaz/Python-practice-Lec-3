@@ -73,3 +73,15 @@ lecture-03/
 - Tuple indexing and slicing
 - Built-in tuple methods (`.count()`, `.index()`)
 - Key differences between lists and tuples
+
+## 🧠 Practice Approach
+
+Focus on problem-solving rather than memorizing syntax.
+
+1. Understand the data structures and identify the problem requirements.
+2. Attempt each problem independently before checking the solution.
+3. Run and test the scripts in your terminal to verify the output.
+4. Experiment by modifying values, testing different indices, and changing data.
+5. Debug errors and observe how Python executes the code.
+
+---
