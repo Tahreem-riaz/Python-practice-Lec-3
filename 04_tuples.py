@@ -238,3 +238,6 @@ print("Processor:", computer_specs[0])
 # 2. Operating System
 print("Operating System:", computer_specs[-1])
 
+# 3. RAM and Storage
+print("RAM and Storage:", computer_specs[1:3])
+
