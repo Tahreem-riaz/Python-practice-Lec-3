@@ -132,3 +132,6 @@ shopping_cart = ["Mouse", "Keyboard", "USB Cable"]
 product_barcode = (8, 9, 2, 5, 1, 7)
 
 shopping_cart.append("Headphones")
+
+print("Updated shopping cart:", shopping_cart)
+print("Product barcode:", product_barcode)
