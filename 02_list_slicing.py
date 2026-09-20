@@ -121,3 +121,8 @@ print("Updated subjects:", subjects)
 
 shopping_cart = ["Milk", "Bread", "Eggs", "Apples", "Juice"]
 
+print("Complete cart:", shopping_cart)
+print("First item:", shopping_cart[0])
+print("Last item:", shopping_cart[-1])
+print("Total number of items:", len(shopping_cart))
+
