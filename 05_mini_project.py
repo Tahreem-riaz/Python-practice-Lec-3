@@ -53,3 +53,5 @@ print(courses)
 # --------------------------------------------------------
 # STEP 3: DISPLAY COURSE INFORMATION
 # --------------------------------------------------------
+
+print("\nCourse Information:")
