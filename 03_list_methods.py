@@ -115,3 +115,7 @@ names = ["Zain", "Ali", "Sara", "Ahmed", "Hina"]
 
 names.sort()
 print("Alphabetically sorted:", names)
+
+# ==========================================
+# PART D: SEARCHING & COUNTING
+# ==========================================
