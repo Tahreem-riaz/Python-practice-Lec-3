@@ -85,3 +85,24 @@ Focus on problem-solving rather than memorizing syntax.
 5. Debug errors and observe how Python executes the code.
 
 ---
+
+## 🚀 Mini Project
+
+### Interactive Student Grade & Inventory Manager
+
+`05_mini_project.py` brings together the concepts covered throughout Lecture 03.
+
+### Concepts Applied
+
+- Lists and tuples
+- List methods such as `.append()`, `.pop()`, and `.sort()`
+- Tuple unpacking
+- Slicing
+- User input with `input()`
+- Basic data processing and statistics
+
+### What It Does
+
+The program uses immutable tuples for fixed record templates and mutable lists for dynamic data. It accepts user entries, processes the collected information, calculates statistics such as minimum, maximum, and average values, sorts the data, and displays the final results.
+
+---
