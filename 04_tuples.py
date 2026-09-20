@@ -155,3 +155,6 @@ print("Product barcode:", product_barcode)
 subjects = ["Programming", "Calculus", "English"]
 
 date_of_birth = (14, "February", 2008)
+
+print("Subjects type:", type(subjects))
+print("Date of birth type:", type(date_of_birth))
