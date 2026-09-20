@@ -83,3 +83,7 @@ courses.insert(2, "Object Oriented Programming")
 
 print("\nUpdated Course List:")
 print(courses)
+
+# --------------------------------------------------------
+# STEP 5: ORGANIZE THE COURSES
+# --------------------------------------------------------
