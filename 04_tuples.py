@@ -173,3 +173,5 @@ print("Date of birth type:", type(date_of_birth))
 #
 #     Use count() to find how many times product
 #     ID 101 was purchased.
+
+product_ids = (101, 205, 101, 302, 101, 205)
