@@ -241,3 +241,6 @@ print("Operating System:", computer_specs[-1])
 # 3. RAM and Storage
 print("RAM and Storage:", computer_specs[1:3])
 
+# 4. Find the index of storage
+storage_position = computer_specs.index("512 GB SSD")
+
