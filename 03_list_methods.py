@@ -100,3 +100,5 @@ numbers = [50, 20, 80, 10, 40, 30]
 numbers.sort()
 
 print("Ascending order:", numbers)
+
+numbers.reverse()
