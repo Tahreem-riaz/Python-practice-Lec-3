@@ -198,3 +198,5 @@ bus_stops = (
     "Gujrat",
     "Jhelum"
 )
+
+gujrat_position = bus_stops.index("Gujrat")
