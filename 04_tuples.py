@@ -50,3 +50,7 @@ print("Longitude:", coordinates[1])
 
 # A tuple is suitable because the coordinates
 # should remain fixed and should not be changed.
+
+# ==========================================
+# PART B: TUPLE INDEXING & SLICING
+# ==========================================
