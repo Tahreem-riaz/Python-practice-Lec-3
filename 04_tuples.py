@@ -47,3 +47,6 @@ coordinates = (31.5204, 74.3587)
 
 print("Latitude:", coordinates[0])
 print("Longitude:", coordinates[1])
+
+# A tuple is suitable because the coordinates
+# should remain fixed and should not be changed.
