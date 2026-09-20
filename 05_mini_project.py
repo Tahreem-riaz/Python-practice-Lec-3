@@ -183,3 +183,9 @@ print("\nCourse Status:")
 print("Completed Courses:", completed_courses)
 print("Current Courses:", current_courses)
 print("Upcoming Courses:", upcoming_courses)
+
+# Add a course to the current courses
+current_courses.append("Object Oriented Programming")
+
+print("\nUpdated Current Courses:")
+print(current_courses)
