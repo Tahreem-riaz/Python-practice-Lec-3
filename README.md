@@ -46,3 +46,15 @@ The lecture focuses on working with ordered data collections using **lists** and
 | [`05_mini_project.py`](05_mini_project.py) | Integrated Student Grade & Inventory Manager | `Mini Project` |
 
 ---
+
+## 📂 Repository Structure
+
+```text
+lecture-03/
+│
+├── README.md
+├── 01_lists.py
+├── 02_list_slicing.py
+├── 03_list_methods.py
+├── 04_tuples.py
+└── 05_mini_project.py
