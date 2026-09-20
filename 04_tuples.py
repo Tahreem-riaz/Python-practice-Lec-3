@@ -151,3 +151,5 @@ print("Product barcode:", product_barcode)
 #     change, so store it in a tuple.
 #
 #     Print the type of both.
+
+subjects = ["Programming", "Calculus", "English"]
