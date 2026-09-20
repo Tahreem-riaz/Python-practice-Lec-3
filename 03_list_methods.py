@@ -177,3 +177,7 @@ print("After removing:", products)
 # Sort the list
 products.sort()
 print("After sorting:", products)
+
+# Reverse the list
+products.reverse()
+print("After reversing:", products)
