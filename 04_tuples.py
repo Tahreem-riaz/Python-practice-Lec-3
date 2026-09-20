@@ -25,10 +25,20 @@ Total Questions: 10
 #     Print the complete record and the student's
 #     name and program using indexing.
 
-student = (005, "Tahreem", "BS Artificial Intelligence", 1)
+student = (005, "Tahreem", "BS Artificial Intelligence", 2)
 
 print("Student Record:", student)
 print("Name:", student[1])
 print("Program:", student[2])
 
 # ------------------------------------------
+
+# Q2. A GPS system stores the coordinates of a
+#     location as a tuple:
+#
+#     coordinates = (31.5204, 74.3587)
+#
+#     Print the latitude and longitude separately.
+#
+#     Why is a tuple suitable here?
+#     Write your answer as a comment.
