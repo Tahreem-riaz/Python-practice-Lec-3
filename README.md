@@ -58,3 +58,22 @@ lecture-03/
 ├── 03_list_methods.py
 ├── 04_tuples.py
 └── 05_mini_project.py
+
+🎯 Learning Goals
+By completing this lecture, you will learn how to:
+
+Create and manipulate Python lists to store ordered data.
+
+Access elements using positive and zero-based indexing.
+
+Differentiate between mutable data structures (lists) and immutable ones (strings, tuples).
+
+Extract custom sub-collections using slicing and step modifiers.
+
+Utilize list mutation methods (.append(), .extend(), .insert(), .pop(), .remove(), .sort()).
+
+Construct and access tuples safely for read-only sequences.
+
+Apply tuple methods (.count(), .index()).
+
+Choose appropriately between lists and tuples based on application needs.
