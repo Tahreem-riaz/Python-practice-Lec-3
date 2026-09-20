@@ -161,3 +161,7 @@ print("Date of birth type:", type(date_of_birth))
 
 # List = mutable and can be changed.
 # Tuple = immutable and cannot be changed directly.
+
+# ==========================================
+# PART D: TUPLE METHODS
+# ==========================================
