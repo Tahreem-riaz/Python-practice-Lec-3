@@ -201,3 +201,7 @@ print("\nData Structure Summary:")
 print("Student information type:", type(student_info))
 print("Course list type:", type(courses))
 print("University details type:", type(university_details))
+
+print("\n" + "=" * 55)
+print("                 PROJECT COMPLETE")
+print("=" * 55)
