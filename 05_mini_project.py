@@ -156,3 +156,7 @@ print("University and Location:", university_details[:2])
 # Tuple method
 print("Position of BSAI:",
       university_details.index("BSAI"))
+
+# --------------------------------------------------------
+# EXTRA CHALLENGE
+# --------------------------------------------------------
