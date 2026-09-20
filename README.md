@@ -106,3 +106,17 @@ Focus on problem-solving rather than memorizing syntax.
 The program uses immutable tuples for fixed record templates and mutable lists for dynamic data. It accepts user entries, processes the collected information, calculates statistics such as minimum, maximum, and average values, sorts the data, and displays the final results.
 
 ---
+
+## 📈 Learning Progress
+
+| Lecture | Topic | Status |
+|---|---|---|
+| Lecture 01 | Python Fundamentals | ✅ Completed |
+| Lecture 02 | Strings & Conditional Statements | ✅ Completed |
+| Lecture 03 | Lists & Tuples | ✅ Completed |
+| Lecture 04 | Pending | ⏳ |
+| Lecture 05 | Pending | ⏳ |
+| Lecture 06 | Pending | ⏳ |
+| Lecture 07 | Pending | ⏳ |
+| Lecture 08 | Pending | ⏳ |
+| Lecture 09 | Pending | ⏳ |
