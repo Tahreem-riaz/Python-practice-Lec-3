@@ -115,3 +115,15 @@ print("Total number of courses:", total_courses)
 course_position = courses.index("Calculus")
 
 print("Position of Calculus:", course_position)
+
+# Check whether a course appears more than once
+courses.append("Calculus")
+
+calculus_count = courses.count("Calculus")
+
+print("Calculus appears:", calculus_count, "times")
+
+if calculus_count > 1:
+    print("Calculus appears more than once.")
+else:
+    print("Calculus appears only once.")
