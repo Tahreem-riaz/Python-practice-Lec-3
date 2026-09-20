@@ -103,3 +103,6 @@ print("Remaining list:", numbers[-5:])
 #     the list.
 
 subjects = ["English", "Mathematics", "Programming", "Physics", "ICT"]
+
+subjects[2] = "Artificial Intelligence"
+subjects.append("Database")
