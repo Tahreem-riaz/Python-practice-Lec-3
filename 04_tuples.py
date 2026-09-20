@@ -9,6 +9,6 @@ Total Questions: 10
 """
 
 # ==========================================
-# PART A: CREATING TUPLES
+#  PART A: CREATING & ACCESSING TUPLES
 # ==========================================
 
