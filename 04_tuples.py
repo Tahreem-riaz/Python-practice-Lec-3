@@ -175,3 +175,5 @@ print("Date of birth type:", type(date_of_birth))
 #     ID 101 was purchased.
 
 product_ids = (101, 205, 101, 302, 101, 205)
+
+number_of_purchases = product_ids.count(101)
