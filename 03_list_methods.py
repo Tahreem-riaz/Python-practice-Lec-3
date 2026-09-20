@@ -119,3 +119,8 @@ print("Alphabetically sorted:", names)
 # ==========================================
 # PART D: SEARCHING & COUNTING
 # ==========================================
+
+# Q8. Create a list containing repeated numbers.
+#
+#     Use count() to find how many times a particular
+#     number appears.
