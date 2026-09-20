@@ -59,7 +59,8 @@ lecture-03/
 ├── 04_tuples.py
 └── 05_mini_project.py
 
->
+---
+
 ## 🎯 Learning Goals
 
 - Creating and manipulating Python lists
