@@ -224,3 +224,11 @@ print("Bus stop:", bus_stops[gujrat_position])
 #      4. Find the index of "512 GB SSD".
 #      5. Explain why a tuple is suitable for
 #         storing these specifications.
+
+computer_specs = (
+    "Intel Core i5",
+    "8 GB RAM",
+    "512 GB SSD",
+    "Windows 11"
+)
+
