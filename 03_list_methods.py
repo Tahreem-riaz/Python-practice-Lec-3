@@ -128,3 +128,4 @@ print("Alphabetically sorted:", names)
 numbers = [10, 20, 10, 30, 10, 40, 20]
 
 count = numbers.count(10)
+print("Number of times 10 appears:", count)
