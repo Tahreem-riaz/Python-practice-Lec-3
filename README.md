@@ -39,10 +39,10 @@ The lecture focuses on working with ordered data collections using **lists** and
 
 | File | Topics | Questions |
 | :--- | :--- | :---: |
-| [`01_lists.py`](01_lists.py) | Lists, Element Access, Strings vs. Lists, Mutability | `12` |
-| [`02_list_slicing.py`](02_list_slicing.py) | Positive/Negative Slicing, Step Values, Sublists | `12` |
-| [`03_list_methods.py`](03_list_methods.py) | Adding, Removing, Sorting, Searching, and Reversing Methods | `15` |
-| [`04_tuples.py`](04_tuples.py) | Tuples, Immutability, Tuple Slicing, Tuple Methods, Lists vs. Tuples | `12` |
+| [`01_lists.py`](01_lists.py) | Lists, Element Access, Strings vs. Lists, Mutability | `8` |
+| [`02_list_slicing.py`](02_list_slicing.py) | Positive/Negative Slicing, Step Values, Sublists | `8` |
+| [`03_list_methods.py`](03_list_methods.py) | Adding, Removing, Sorting, Searching, and Reversing Methods | `10` |
+| [`04_tuples.py`](04_tuples.py) | Tuples, Immutability, Tuple Slicing, Tuple Methods, Lists vs. Tuples | `10` |
 | [`05_mini_project.py`](05_mini_project.py) | Integrated Student Grade & Inventory Manager | `Mini Project` |
 
 ---
