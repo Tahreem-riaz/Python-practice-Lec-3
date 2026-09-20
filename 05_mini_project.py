@@ -77,3 +77,9 @@ courses.append("Artificial Intelligence")
 
 # Remove one course
 courses.remove("ICT")
+
+# Insert a course at position 2
+courses.insert(2, "Object Oriented Programming")
+
+print("\nUpdated Course List:")
+print(courses)
