@@ -82,3 +82,5 @@ print("After pop():", shopping_list)
 #     - The updated list
 
 numbers = [10, 20, 30, 40, 50]
+
+removed_value = numbers.pop()
