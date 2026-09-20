@@ -118,3 +118,6 @@ print("Updated subjects:", subjects)
 #     - First item
 #     - Last item
 #     - Total number of items
+
+shopping_cart = ["Milk", "Bread", "Eggs", "Apples", "Juice"]
+
