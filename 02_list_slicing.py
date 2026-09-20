@@ -101,3 +101,5 @@ print("Remaining list:", numbers[-5:])
 #
 #     Use slicing with a negative step to reverse
 #     the list.
+
+subjects = ["English", "Mathematics", "Programming", "Physics", "ICT"]
