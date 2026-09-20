@@ -87,3 +87,9 @@ print(courses)
 # --------------------------------------------------------
 # STEP 5: ORGANIZE THE COURSES
 # --------------------------------------------------------
+
+# Sort the course list alphabetically
+courses.sort()
+
+print("\nAlphabetically Sorted Courses:")
+print(courses)
