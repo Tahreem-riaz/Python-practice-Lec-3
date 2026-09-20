@@ -46,3 +46,6 @@ courses = [
     "ICT",
     "Database Systems"
 ]
+
+print("\nCourse List:")
+print(courses)
