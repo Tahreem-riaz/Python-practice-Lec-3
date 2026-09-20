@@ -112,3 +112,5 @@ print("Reversed list:", numbers)
 #     Print the sorted list.
 
 names = ["Zain", "Ali", "Sara", "Ahmed", "Hina"]
+
+names.sort()
