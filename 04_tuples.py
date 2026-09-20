@@ -135,3 +135,10 @@ shopping_cart.append("Headphones")
 
 print("Updated shopping cart:", shopping_cart)
 print("Product barcode:", product_barcode)
+
+# The shopping cart is a list because its items
+# can change.
+# The barcode is a tuple because its values
+# should remain fixed.
+
+# ------------------------------------------
