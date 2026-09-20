@@ -37,3 +37,12 @@ print("Semester:", student_info[2])
 
 # Courses are stored in a list because courses can
 # be added or removed.
+
+courses = [
+    "Programming Fundamentals",
+    "Calculus",
+    "Discrete Structures",
+    "Functional English",
+    "ICT",
+    "Database Systems"
+]
