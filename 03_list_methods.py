@@ -21,3 +21,5 @@ languages = ["Python", "C++", "Java"]
 
 languages.append("JavaScript")
 languages.append("C#")
+
+print("Updated list:", languages)
