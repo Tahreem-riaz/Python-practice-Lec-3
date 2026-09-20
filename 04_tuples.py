@@ -153,3 +153,5 @@ print("Product barcode:", product_barcode)
 #     Print the type of both.
 
 subjects = ["Programming", "Calculus", "English"]
+
+date_of_birth = (14, "February", 2008)
