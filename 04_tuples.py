@@ -75,3 +75,11 @@ print("Friday:", weekly_marks[-1])
 print("Wednesday:", weekly_marks[2])
 
 # ------------------------------------------
+
+# Q4. A university timetable contains the subjects
+#     for six periods.
+#
+#     Use slicing to display:
+#     - Morning classes (first three)
+#     - Afternoon classes (last three)
+#     - Every alternate period
