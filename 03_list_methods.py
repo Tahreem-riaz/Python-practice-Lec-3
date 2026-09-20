@@ -174,3 +174,6 @@ print("After inserting:", products)
 products.remove("Mouse")
 print("After removing:", products)
 
+# Sort the list
+products.sort()
+print("After sorting:", products)
