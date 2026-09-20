@@ -67,3 +67,7 @@ print("Last course:", courses[-1])
 
 # First three courses
 print("First three courses:", courses[:3])
+
+# --------------------------------------------------------
+# STEP 4: MODIFY THE COURSE LIST
+# --------------------------------------------------------
