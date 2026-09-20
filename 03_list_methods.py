@@ -32,3 +32,7 @@ print("Updated list:", languages)
 #     beginning of the list.
 #
 #     Print the result.
+
+numbers = [20, 30, 40]
+
+numbers.insert(0, 10)
