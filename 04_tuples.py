@@ -110,3 +110,5 @@ print("Alternate periods:", timetable[::2])
 award_years = (2019, 2020, 2021, 2022, 2023, 2024)
 
 recent_years = award_years[-3:]
+
+print("Most recent award years:", recent_years)
