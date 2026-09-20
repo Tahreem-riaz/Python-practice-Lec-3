@@ -67,3 +67,5 @@ print("Longitude:", coordinates[1])
 #     - Wednesday's marks
 #
 #     Use both positive and negative indexing.
+
+weekly_marks = (78, 85, 91, 74, 88)
