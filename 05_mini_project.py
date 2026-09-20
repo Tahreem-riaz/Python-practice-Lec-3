@@ -93,3 +93,10 @@ courses.sort()
 
 print("\nAlphabetically Sorted Courses:")
 print(courses)
+
+# Create a reversed version without changing
+# the sorted list.
+reversed_courses = courses[::-1]
+
+print("\nReversed Courses:")
+print(reversed_courses)
