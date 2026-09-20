@@ -126,3 +126,5 @@ print("Alphabetically sorted:", names)
 #     number appears.
 
 numbers = [10, 20, 10, 30, 10, 40, 20]
+
+count = numbers.count(10)
