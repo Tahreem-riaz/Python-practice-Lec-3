@@ -83,3 +83,12 @@ print("Wednesday:", weekly_marks[2])
 #     - Morning classes (first three)
 #     - Afternoon classes (last three)
 #     - Every alternate period
+
+timetable = (
+    "Programming",
+    "Calculus",
+    "English",
+    "ICT",
+    "Discrete Structures",
+    "AI"
+)
