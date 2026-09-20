@@ -203,3 +203,7 @@ gujrat_position = bus_stops.index("Gujrat")
 
 print("Gujrat index:", gujrat_position)
 print("Bus stop:", bus_stops[gujrat_position])
+
+# ==========================================
+# PART E: CHALLENGE
+# ==========================================
