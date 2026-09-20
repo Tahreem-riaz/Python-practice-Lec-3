@@ -147,3 +147,14 @@ print("Position of Java:", position)
 # PART E: CHALLENGE
 # ==========================================
 
+# Q10. Create a list of five products.
+#
+#      Perform the following operations:
+#
+#      - Add a new product
+#      - Insert a product at a specific position
+#      - Remove a product
+#      - Sort the list
+#      - Reverse the list
+#
+#      Print the list after each operation.
