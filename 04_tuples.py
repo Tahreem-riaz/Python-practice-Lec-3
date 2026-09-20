@@ -235,3 +235,6 @@ computer_specs = (
 # 1. Processor
 print("Processor:", computer_specs[0])
 
+# 2. Operating System
+print("Operating System:", computer_specs[-1])
+
