@@ -189,3 +189,7 @@ current_courses.append("Object Oriented Programming")
 
 print("\nUpdated Current Courses:")
 print(current_courses)
+
+# --------------------------------------------------------
+# LISTS VS TUPLES
+# --------------------------------------------------------
