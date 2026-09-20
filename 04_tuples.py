@@ -232,3 +232,6 @@ computer_specs = (
     "Windows 11"
 )
 
+# 1. Processor
+print("Processor:", computer_specs[0])
+
