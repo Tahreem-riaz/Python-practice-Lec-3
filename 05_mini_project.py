@@ -110,3 +110,8 @@ total_courses = len(courses)
 
 print("\nCourse Analysis:")
 print("Total number of courses:", total_courses)
+
+# Position of a particular course
+course_position = courses.index("Calculus")
+
+print("Position of Calculus:", course_position)
